@@ -4,7 +4,7 @@
 	xmlns:android="http://schemas.android.com/apk/res/android">
 	<name>TrackierCordovaSDK</name>
 	<js-module name="TrackierCordovaSDK" src="www/TrackierCordovaSDK.js">
-		<clobbers target="cordova.plugins.TrackierCordovaSDK" />
+		<clobbers target="TrackierCordovaSDK" />
 	</js-module>
 	<platform name="android">
 		<config-file parent="/*" target="res/xml/config.xml">
