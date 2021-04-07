@@ -1,0 +1,25 @@
+{
+  "name": "trackier-cordova-sdk",
+  "version": "1.0.0",
+  "description": "Trackier Cordova SDK",
+  "cordova": {
+    "id": "trackier-cordova-sdk",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hemant-Mann/trackier-cordova-sdk.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Hemant Mann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hemant-Mann/trackier-cordova-sdk/issues"
+  },
+  "homepage": "https://github.com/Hemant-Mann/trackier-cordova-sdk#readme"
+}
